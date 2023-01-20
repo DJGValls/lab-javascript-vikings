@@ -1,3 +1,5 @@
+console.log("hello world")
+
 // Soldier
 class Soldier {}
 
